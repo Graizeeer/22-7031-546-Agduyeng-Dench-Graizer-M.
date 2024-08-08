@@ -1,0 +1,349 @@
+   0 pkg update
+   1 apk update
+   2 apk upgrade
+   3 apk add apache2
+   4 mysql-server default-jre default-jdk -y
+   5 ln-s dir
+   6 ln -s dir
+   7 java
+   8 apache2 start
+   9 git clone https://github.com/Graizeeer/227031546-Agduyeng
+  10 apt install gut
+  11 apt install git
+  12 pkg install git
+  13 apk install git
+  14 apk git
+  15 pkg install git
+  16 apt
+  17 help
+  18 gut
+  19 git
+  20 apk add git
+  21 git clone https://github.com/Graizeeer/227031546-Agduyeng
+  22 ls
+  23 cd
+  24 cd\
+  25 cd/
+  26 cd
+  27 ls
+  28 cd 227031546-Agduyeng
+  29 ls
+  30 git status
+  31 java
+  32 apk add openjdk-17
+  33 apk search openjdk
+  34 apk add openjdk8-jre-base-8.302.08-r1
+  35 apk add openjdk8
+  36 java
+  37 javac
+  38 apk list
+  39 s
+  40 ls
+  41 apk add openjdk8
+  42 java
+  43 javac
+  44 java -?
+  45 cd
+  46 ls
+  47 cd 2270
+  48 cd 227031546-Agduyeng
+  49 la
+  50 ls
+  51 cd Setting_Up_a_Development_Environment_on_Linux
+  52 ls
+  53 java Hello
+  54 javac Hello
+  55 javac
+  56 java
+  57 cd/
+  58 cd
+  59 cd Setting_up_a_Development_Environment_on_Linux
+  60 cd 227031546-Agduyeng
+  61 cd Setting_up_a_Development_Environment_on_Linux
+  62 ps
+  63 la
+  64 ls
+  65 cd Setting_Up_a_Development_Environment_on_Linux
+  66 ls
+  67 cd
+  68 java
+  69 apk update
+  70 java
+  71 apk add openjdk8
+  72 java
+  73 javac Hello
+  74 apk update
+  75 java
+  76 apk add openjdk8
+  77 cd 227031546-Agduyeng
+  78 ls
+  79 cd Setting_Up_a_Development_Environment_on_Linux
+  80 ls
+  81 nano
+  82 nano hello.java
+  83 javac
+  84 javac Hello.java
+  85 cd
+  86 apk update
+  87 apk upgrade
+  88 ls
+  89 cd 227031546-Agduyeng
+  90 ls
+  91 cd Setting_Up_a_Development_Environment_on_Linux
+  92 ls
+  93 javac Hello.java
+  94 javac
+  95 java
+  96 pwd
+  97 ls
+  98 javac Hello.java
+  99 java
+ 100 cd
+ 101 apk add openjdk8
+ 102 java
+ 103 apk del openjdk8
+ 104 apk del jdk8
+ 105 apk add openjdk8
+ 106 apk update
+ 107 apk upgrade
+ 108 java
+ 109 ls
+ 110 cd 227031546-Agduyeng
+ 111 ls
+ 112 cd Setting_Up_a_Development_Environment_on_Linux
+ 113 ls
+ 114 nano java
+ 115 java
+ 116 javac Hello.java
+ 117 javac
+ 118 java
+ 119 clear
+ 120 cd
+ 121 Error occurred during initialization of VM
+ 122 ls
+ 123 cd 227031546-Agduyeng
+ 124 ls
+ 125 cd Setting_Up_a_Development_Environment_on_Linux
+ 126 ls
+ 127 javac Hello.java
+ 128 kava
+ 129 java
+ 130 apk search jdk
+ 131 apk add jre
+ 132 apk add openjdk8-jre
+ 133 java
+ 134 apk add openjdk-jre8
+ 135 clear
+ 136 cd
+ 137 ls
+ 138 cd 227031546-Agduyeng
+ 139 ls
+ 140 cd Setting_Up_a_Development_Environment_on_Linux
+ 141 ls
+ 142 nano java
+ 143 java
+ 144 javac Hello.java
+ 145 cd
+ 146 ls
+ 147 java
+ 148 gut status
+ 149 git status
+ 150 git clone status
+ 151 cd 227031546-Agduyeng
+ 152 git status
+ 153 cd
+ 154 apk update
+ 155 apk upgrade
+ 156 PrintMotd
+ 157 ls
+ 158 cd 227031546-Agduyeng
+ 159 java
+ 160 ls
+ 161 cd Setting_Up_a_Development_Environment_on_Linux
+ 162 ls
+ 163 javac Hello.java
+ 164 ls
+ 165 sudo search java
+ 166 apk add openjdk-7
+ 167 ls
+ 168 cd 227031546-Agduyeng
+ 169 ls
+ 170 cd BATCHFILES
+ 171 CD
+ 172 cd
+ 173 cd Setting_Up_a_Development_Environment_on_Linux
+ 174 ls
+ 175 cd 227031546-Agduyeng
+ 176 ls
+ 177 cd Setting_Up_a_Development_Environment_on_Linux
+ 178 ls
+ 179 kaba
+ 180 java
+ 181 javac Hello.java
+ 182 cd
+ 183 ls
+ 184 227031546-Agduyeng
+ 185 cd 227031546-Agduyeng
+ 186 ls
+ 187 cd BATCHFILES
+ 188 ls
+ 189 dd
+ 190 apk search java
+ 191 apk add java
+ 192 java
+ 193 whoaki
+ 194 whoami
+ 195 apk add nano
+ 196 nano
+ 197 cd ~/projects/my_repo
+ 198 clear
+ 199 history-c
+ 200 git repo
+ 201 grep repo
+ 202 ls
+ 203 cd 227031546-Agduyeng
+ 204 cat /dev/null > ~/.bash_history
+ 205 mkdir "linux_practices
+ 206 ls
+ 207 cd 227031546-Agduyeng
+ 208 cat /dev/null > ~/.bash_history
+ 209 mkdir "linux practices"
+ 210 cd "linux practices"
+ 211 touch "notes.txt"
+ 212 ls -l >> "notes.txt"
+ 213 cat "notes.txt"
+ 214 echo "Hello, Linux!" > "notes.txt"
+ 215 echo "this is a practical exam." >> "notes.txt"
+ 216 head -n 1 "notes.txt"
+ 217 tail -n 1 "notes.txt
+ 218 tail -n 1 "notes.txt"
+ 219 exit
+ 220 hhh
+ 221 tail -n 1 "notes.txt"
+ 222 ls
+ 223 227031546-Agduyeng
+ 224 cd 227031546-Agduyeng
+ 225 ls
+ 226 cd linux practices
+ 227 linux
+ 228 tail -n 1 "notes.txt"
+ 229 ls
+ 230 cd linux practices
+ 231 cd
+ 232 cd 227031546-Agduyeng
+ 233 ls
+ 234 cd linux practices
+ 235 head -n 1 "notes.txt"
+ 236 ls
+ 237 227031546-Agduyeng
+ 238 cd 227031546-Agduyeng
+ 239 ls
+ 240 cd linux_practices
+ 241 del linux practices
+ 242 ls
+ 243 cd 227031546-Agduyeng
+ 244 history -c
+ 245 mkdir linux_practice
+ 246 cd linux_practice
+ 247 touch notes.txt
+ 248 ls >> notes.txt
+ 249 cat notes.txt
+ 250 echo "Hello, Linux!" > notes.txt
+ 251 echo "This is a practical exam." >> notes.txt
+ 252 head -n 1 notes.txt
+ 253 tail -n 1 notes.txt
+ 254 mkdir subdir
+ 255 mv notes.txt subdir/
+ 256 mv subdir practice_subdir
+ 257 cp practice_subdir/notes.txt .
+ 258 date
+ 259 uptime
+ 260 du -sh ~
+ 261 ssh -v
+ 262 ish -v
+ 263 cat /proc/uptime
+ 264 du -sh ~
+ 265 ssh -V
+ 266 php -v
+ 267 apk add php
+ 268 php -v
+ 269 apk add mariadb
+ 270 mysql --version
+ 271 apache1 -v
+ 272 apk add apache
+ 273 apk add apache1
+ 274 python --version
+ 275 java -version
+ 276 gh repo clone <https://github.com/Graizeeer/227031546-Agduyeng>
+ 277 git repo clone https://github.com/Graizeeer/227031546-Agduyeng
+ 278 gh repo clone https://github.com/Graizeeer/227031546-Agduyeng
+ 279 git clone https://github.com/Graizeeer/227031546-Agduyeng
+ 280 ls
+ 281 git branch finalexam
+ 282 git checkout -b finalexam
+ 283 history > exam_log.txt
+ 284 git add exam_log.txt
+ 285 git shortlog
+ 286 git commit -m "added exam_log.txt with command history"
+ 287 git push origin finalexam
+ 288 git config --global user.email denchagduyeng03@gmail.com
+ 289 git config --global user.name graizeeer
+ 290 git commit -m "Added exam_log.txt with command history"
+ 291 git push origin finalexam
+ 292 gh
+ 293 apk add gh
+ 294 package install gh
+ 295 apk add gh
+ 296 gh auth login
+ 297 apk add git
+ 298 git auth login
+ 299 git commit -m "Added exam_log.txt with command history"
+ 300 git add
+ 301 git add .
+ 302 git push origin finalexam
+ 303 git config
+ 304 apk update
+ 305 apk upgrade
+ 306 git checkout -b finalexam
+ 307 history > exam.log.txt
+ 308 git add exam_log.txt
+ 309 git commit -m "Added exam_log.txt with command history"
+ 310 git push origin finalexam
+ 311 gh auth login
+ 312 apt install gg
+ 313 apt install gh
+ 314 brew install gh
+ 315 apk install gh
+ 316 apk add gh
+ 317 apk add git
+ 318 apk update
+ 319 apk upgrade
+ 320 curl -LO https://github.com/cli/cli/releases/download/v2.19.2/gh_2.19.2_linux_amd64.tar.gz
+ 321 git
+ 322 git push origin finalexam
+ 323 Graizeeer
+ 324 git push origin finalexam
+ 325 git checkout -b finalexam
+ 326 history > exam_log.txt
+ 327 git push origin finalexam
+ 328 history > exam_log.txt
+ 329 git add exam_log.txt
+ 330 git commit -m "Added exam_log.txt with command history"
+ 331 git push origin finalexam
+ 332 cd
+ 333 ls
+ 334 cd 227031546-Agduyeng
+ 335 git checkout -b finalexam
+ 336 history > exam_log.txt
+ 337 git add exam_log.txt
+ 338 git commit -m "Added exam_log.txt with command history"
+ 339 git push origin finalexam
+ 340 ls
+ 341 cat exam_log.txt
+ 342 git clone https://github.com/Graizeeer/227031546-Agduyeng/tree/finalexam
+ 343 ls
+ 344 git clone https://github.com/Graizeeer/227031546-Agduyeng
+ 345 ls
+ 346 cd 227031546-Agduyeng
+ 347 git checkout -b finalexam
+ 348 history > exam_log.txt
